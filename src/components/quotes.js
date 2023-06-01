@@ -21,7 +21,6 @@ const Quotes = () => {
             contentType: 'application/json',
           },
         );
-        console.log(res);
         const quote = await res.json();
 
         setQuote(quote);
