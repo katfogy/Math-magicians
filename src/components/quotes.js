@@ -12,7 +12,7 @@ const Quotes = () => {
       setIsError(false);
       try {
         const res = await fetch(
-          'https://api.api-ninjas.com/v1/quotes?category=learning',
+          'https://api.api-ninjas.com/v1/quotes',
           {
             method: 'GET',
             headers: {
