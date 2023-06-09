@@ -7,7 +7,7 @@ it('renders correctly', () => {
     .create(
       <BrowserRouter>
         <Calculator />
-      </BrowserRouter>
+      </BrowserRouter>,
     )
     .toJSON();
   expect(tree).toMatchSnapshot();
