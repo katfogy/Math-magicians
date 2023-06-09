@@ -63,6 +63,10 @@
 
 
 <!-- LIVE DEMO -->
+## 🚀 Live Demo <a name="https://math-magicians-tqvi.onrender.com/quotes"></a>
+
+
+- [[Live Demo Link](https://math-magicians-tqvi.onrender.com/quotes)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
